@@ -51,6 +51,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'south',
     'project',
+    'gunicorn'
 ]
 
 TEMPLATE_CONTEXT_PROCESSORS = [
